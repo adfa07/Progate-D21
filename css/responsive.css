@@ -12,6 +12,14 @@
   .heading h2 {
     font-size: 20px;
   }
+    .lessonxx {
+    width: 20%;
+  }
+  .lessonxx img{
+    width:120px;
+    height:120px;
+    border-radius: 100px;
+}
 }
 
 /* Untuk Smartphone */
@@ -19,7 +27,7 @@
   .lesson {
     width: 100%;
   }
-    .lessonxx {
+  .lessonxx {
     width: 20%;
   }
   .lessonxx img{
@@ -43,10 +51,22 @@
     text-align: left;
   }
   
-  .header-right{
+  .header-left a{
+    display: none;
+  }
+
+  .header-right a{
     display:none;
   }
   
+.header-right input{ 
+    width: 80%;
+    padding-right: 30px;
+  }
+  .logo{
+    margin-left: 50px;
+  }
+
   .menu-icon{
     display:block;
   }
