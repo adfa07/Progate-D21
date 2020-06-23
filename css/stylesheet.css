@@ -140,6 +140,7 @@ header {
 .header-right a:hover {
   /*background-color: rgba(255, 255, 255, 0.3); */
   border-bottom:3px solid rgba(255, 255, 255, 0.3);
+  width:140px;
 }
 
 .header-left a:hover {
