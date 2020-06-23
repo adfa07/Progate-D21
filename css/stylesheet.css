@@ -130,14 +130,15 @@ header {
   margin-top: 20px;
   float: left;
   transition: all 0.5s;
-  width:120px;
-  height: 28px;
+  width:140px;
+  height: 30px;
   padding-left:10px; 
   border-radius:15px;
   border:none;
 }
 .header-right input:hover{
-  width:140px;
+  width:170px;
+  height:35px;
   
 }
 .header-right a:hover {
