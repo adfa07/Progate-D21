@@ -135,12 +135,12 @@ header {
   padding-left:10px; 
   border-radius:15px;
 }
-
-
+.header-right input{
+  width:140px;
+}
 .header-right a:hover {
   /*background-color: rgba(255, 255, 255, 0.3); */
   border-bottom:3px solid rgba(255, 255, 255, 0.3);
-  width:140px;
 }
 
 .header-left a:hover {
