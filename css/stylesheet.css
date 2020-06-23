@@ -135,7 +135,7 @@ header {
   padding-left:10px; 
   border-radius:15px;
 }
-.header-right input{
+.header-right input:active {
   width:140px;
 }
 .header-right a:hover {
