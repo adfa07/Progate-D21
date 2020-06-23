@@ -125,7 +125,20 @@ header {
   transition: all 0.5s;
 }
 
+.header-right input{
+  padding:0 25px;
+  margin-top: 20px;
+  float: left;
+  transition: all 0.5s;
+  width:120px;
+  height: 25px;
+  padding-left:10px; 
+  border-radius:15px;
+}
 
+.header-right input:hover{
+  width:140px;
+} 
 .header-right a:hover {
   /*background-color: rgba(255, 255, 255, 0.3); */
   border-bottom:3px solid rgba(255, 255, 255, 0.3);
