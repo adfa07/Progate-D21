@@ -131,11 +131,11 @@ header {
   float: left;
   transition: all 0.5s;
   width:120px;
-  height: 25px;
+  height: 28px;
   padding-left:10px; 
   border-radius:15px;
 }
-.header-right input:active {
+.header-right input:hover{
   width:140px;
 }
 .header-right a:hover {
